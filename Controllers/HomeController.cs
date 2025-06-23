@@ -1,6 +1,7 @@
 using System;
-using System.Web.Mvc;
 using SampleDotNetApp.Models;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace SampleDotNetApp.Controllers
 {
